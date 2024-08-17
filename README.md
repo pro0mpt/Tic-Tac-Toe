@@ -1,6 +1,3 @@
-Here’s a README file that you can use for your GitHub repository, covering both the **Document/File/Image/Link to QR Code Converter** and the **Document Format Converter** projects. It provides detailed instructions on how to use the app, set up the code in VS Code, and run the file.
-
----
 
 # QR Code Converter & Document Format Converter
 
